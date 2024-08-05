@@ -1,0 +1,15 @@
+.container, .post {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.post {
+    width: 350px;
+    border: solid black 5px;
+}
+.icons {
+    width: 90%;
+    display: flex;
+    justify-content: space-evenly;
+}
